@@ -119,9 +119,27 @@ A planilha completa está disponível no OneDrive:
 ## 📌 Observação
 Este projeto tem finalidade **educacional**, desenvolvido como parte do aprendizado em Excel e organização de dados. A planilha é uma ferramenta de apoio à organização das informações e não substitui a orientação de um profissional contábil ou as ferramentas oficiais utilizadas para a declaração.
 
-### 👩‍💻 Projeto desenvolvido durante estudos na DIO
-**Bootcamp:** Santander — Excel com Inteligência Artificial  
-**Tecnologia principal:** Microsoft Excel
+### 🎮 Dashboard de Vendas do Xbox Game Pass
+## Projeto do bootcamp DIO + Santander – Excel com IA e Claude.
+## Dashboard em Excel que analisa as assinaturas do Xbox Game Pass vendidas em 2024. 
+
+## 🎯 Perguntas de negócio
+Qual o faturamento anual total?
+Qual o faturamento anual por renovação automática?
+Qual o total de vendas do EA Play?
+Qual o total de vendas do Minecraft?
+
+## 🗂️ Estrutura do arquivo
+Aba	Conteúdo
+Dados	Base com 98 assinantes (plano, tipo, renovação, add-ons, cupom e valor total)
+Cálculo	Tabelas dinâmicas que respondem às 4 perguntas
+Dashboard	KPIs, gráfico de barras e segmentação por tipo de assinatura
+Assests	Paleta de cores, logos e ícones
+
+## 📊 Como usar
+Abrir o excel no link: 
+https://1drv.ms/x/c/aa302b7b523f2ab6/IQBJQFyukk47Qa-H-p0wCAboAeZpiGuA8ZF54io3BPfZb5w?e=Spqlwg
+
 
 
 
